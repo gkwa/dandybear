@@ -4,7 +4,7 @@ import (
 	"example/taylormonacelli/dandybear/morestrings"
 	"fmt"
 
-	"github.com/taylormonacelli/ivytoe"
+	"example/taylormonacelli/dandybear/ivytoe"
 )
 
 func main() {
