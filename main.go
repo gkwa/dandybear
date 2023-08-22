@@ -2,7 +2,7 @@ package main
 
 import (
 	"example/taylormonacelli/dandybear/morestrings"
-	"example/taylormonacelli/dandybear/ivytoe"
+	"github.com/taylormonacelli/ivytoe"
 	"fmt"
 )
 

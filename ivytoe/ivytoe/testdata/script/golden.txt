@@ -1,5 +1,0 @@
-exec ivytoe
-cmp stdout golden.txt
-
--- golden.txt --
-hello world
