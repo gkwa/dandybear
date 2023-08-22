@@ -1,7 +1,7 @@
 package main
 
 import (
-	"example/user/dandybear/morestrings"
+	"github.com/taylormonacelli/dandybear/morestrings"
 	"fmt"
 )
 

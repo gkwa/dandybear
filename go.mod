@@ -1,3 +1,3 @@
-module example/user/dandybear
+module github.com/taylormonacelli/dandybear
 
 go 1.20
