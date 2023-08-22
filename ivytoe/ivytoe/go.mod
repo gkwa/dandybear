@@ -1,4 +1,4 @@
-module example/taylormonacelli/ivytoe
+module example/taylormonacelli/dandybear/ivytoe
 
 go 1.20
 

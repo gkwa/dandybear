@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"example/taylormonacelli/ivytoe"
+	"example/taylormonacelli/dandybear/ivytoe"
 
 	"github.com/rogpeppe/go-internal/testscript"
 )

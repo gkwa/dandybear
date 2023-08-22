@@ -1,10 +1,9 @@
 package main
 
 import (
-	"fmt"
-
-	"example/taylormonacelli/ivytoe"
 	"example/taylormonacelli/dandybear/morestrings"
+	"example/taylormonacelli/dandybear/ivytoe"
+	"fmt"
 )
 
 func main() {
