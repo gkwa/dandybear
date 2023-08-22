@@ -1,13 +1,15 @@
 package main
 
 import (
-	"example/taylormonacelli/dandybear/morestrings"
-	"fmt"
-
 	"example/taylormonacelli/dandybear/ivytoe"
 )
 
+var logger *ivytoe.Logger
+
+func init() {
+	logger = ivytoe.NewLogger("dandybear.log")
+}
+
 func main() {
-	fmt.Println(morestrings.ReverseRunes("test"))
-	ivytoe.Main()
+	logger.Fatal("test")
 }
