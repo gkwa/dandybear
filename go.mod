@@ -1,3 +1,3 @@
-module github.com/taylormonacelli/dandybear
+module example/taylormonacelli/dandybear
 
 go 1.20
