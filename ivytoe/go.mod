@@ -7,7 +7,7 @@ toolchain go1.23.2
 require (
 	github.com/rogpeppe/go-internal v1.13.1
 	github.com/taylormonacelli/ivytoe v0.0.0-20230822190121-6fe9d31fa9fe
-	go.uber.org/zap v1.25.0
+	go.uber.org/zap v1.27.0
 )
 
 require (
