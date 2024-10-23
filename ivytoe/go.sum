@@ -9,6 +9,7 @@ github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKs
 github.com/taylormonacelli/ivytoe v0.0.0-20230822190121-6fe9d31fa9fe h1:6zUkfcN5LFbkmSHvUZ1DpkrPyq90Uz2vV9HRuCese4o=
 github.com/taylormonacelli/ivytoe v0.0.0-20230822190121-6fe9d31fa9fe/go.mod h1:VUedggbxDsfMySZrhzXv7hdm2xvHkrIkZk636WFPqs0=
 github.com/taylormonacelli/ivytoe v0.0.0-20230822234206-55c4ac4f0b86/go.mod h1:zUrRHo9WJ2h1h3rm2qBtGX33R+zeWK3CJ0/zqTpTVJ8=
+github.com/taylormonacelli/ivytoe v0.0.0-20241023183353-29061f61da3d/go.mod h1:UhncqJqMpQ0fnCCXzcFpDrkHeL82j/2a+VT/s0Im1dA=
 go.uber.org/goleak v1.2.0 h1:xqgm/S+aQvhWFTtR0XK3Jvg7z8kGV8P4X14IzwN3Eqk=
 go.uber.org/multierr v1.10.0 h1:S0h4aNzvfcFsC3dRF1jLoaov7oRaKqRGC/pUEJ2yvPQ=
 go.uber.org/multierr v1.10.0/go.mod h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y=
