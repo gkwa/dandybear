@@ -2,7 +2,7 @@ module example/taylormonacelli/dandybear/ivytoe
 
 go 1.23
 
-toolchain go1.26.5
+toolchain go1.26.6
 
 require (
 	github.com/rogpeppe/go-internal v1.16.0
